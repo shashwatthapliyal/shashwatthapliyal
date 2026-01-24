@@ -4,7 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=shashwatthapliyal&label=Profile%20Views&color=2f80ed&style=flat" />
 </p>
 
-I am a B.Tech CSE student (2026) with an interest in web development and a strong focus on understanding software systems by building real-world projects.
+I am a **B.Tech Computer Science student (2026)** focused on building web applications and developing strong software fundamentals.
+
 
 ---
 

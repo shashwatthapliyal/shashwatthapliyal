@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Shashwat Thapliyal
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashwatthapliyal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![profile views](https://komarev.com/ghpvc/?username=shashwatthapliyal&label=Profile%20Views&color=0e75b6&style=flat)
 
 I'm a **B.Tech CSE student (2026)** who enjoys building things on the web and exploring how software works under the hood. I learn best by building real projects and slowly sharpening fundamentals.
 
@@ -10,69 +8,51 @@ I'm a **B.Tech CSE student (2026)** who enjoys building things on the web and ex
 
 ## 🧠 Tech Stack
 
-### Languages
+### Languages  
+C · **C++** · JavaScript
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### Frontend  
+HTML5 · CSS3 · React · Tailwind CSS
 
-### Frontend
+### Backend & Database  
+Node.js · MongoDB
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### Tools & Concepts
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![DSA](https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+### Tools & Concepts  
+Git · Linux · DSA · Machine Learning
 
 ---
 
 ## 🚀 Projects
 
-* 🎥 **YouTube-like App** – React app using APIs, state management, and reusable components
-* 🧠 **Face Mask Detection** – Machine Learning project using Python
-* 🛠 **Mini Compiler** – Lexical & syntax analysis for a custom language
-* 🐧 **Custom Linux Shell (GTK)** – UI, command handling, history & suggestions
+- 🎥 **YouTube-like App** – React app using APIs, state management, and reusable components  
+- 🧠 **Face Mask Detection** – Machine Learning project  
+- 🛠 **Mini Compiler** – Lexical & syntax analysis for a custom language  
+- 🐧 **Custom Linux Shell (GTK)** – UI, command handling, history & suggestions  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashwatthapliyal&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatthapliyal&layout=compact&theme=tokyonight" height="160" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwatthapliyal&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shashwatthapliyal&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatthapliyal&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Current Focus
 
-* Mastering **DSA & problem-solving**
-* Building **production-ready React projects**
-* Preparing for **internships & placements**
-* Exploring **Three.js** and interactive web experiences
+- Mastering **DSA & problem-solving**
+- Building **production-ready React projects**
+- Preparing for **internships & placements**
+- Exploring **Three.js** and interactive web experiences
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/shashwat-thapliyal-0a799a295](https://www.linkedin.com/in/shashwat-thapliyal-0a799a295)
-* 📧 Email: [shashwatthapliyal021@gmail.com](mailto:shashwatthapliyal021@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/shashwat-thapliyal-0a799a295  
+- 📧 Email: shashwatthapliyal021@gmail.com  
 
 ---
 
-⭐ *Consistency > intensity. One meaningful commit at a time.*
+⭐ **Consistency > intensity. One meaningful commit at a time.**
